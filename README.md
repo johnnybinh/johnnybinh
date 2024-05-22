@@ -3,7 +3,7 @@
 # Welcome to my profile
 I'm currently a freshman university student exploring the world of web development
 
-# Tech i'm currently learning and working
+# Tech i'm currently learning and working with:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ## Frontend
