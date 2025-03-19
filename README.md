@@ -1,7 +1,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />
 
 # Welcome to my profile
-I'm currently a university student exploring the world of web development
+I'm currently a university student exploring the world of software development and teaching computer to learn things!
 
 ## How To Reach Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/johnny.binh2703)
